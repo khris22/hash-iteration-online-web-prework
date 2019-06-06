@@ -26,5 +26,5 @@ end
 # if age == :birthday_kids && age <= 12
 # if kids_name.value?(age <= 12)
 
-#     if age >= 12
+# if age >= 12
 # puts "Happy Birthday #{kids_name}! You are now #{age} years old! You are too old for this."
